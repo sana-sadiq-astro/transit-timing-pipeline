@@ -35,4 +35,3 @@ I also ran an injection-recovery test on the WASP-18 b timings: decays of 0, -3,
 ## Files
 - `Transit_timing_pipeline.ipynb`: full code and outputs
 - `WASP-18_times.csv`, `WASP-12_times.csv`: measured transit mid-times
-- `Transit_timing_pipeline.pdf`: PDF copy of the notebook
